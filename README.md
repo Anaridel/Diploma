@@ -1,1 +1,1 @@
-# verstka1
+# coronavirus research for thesis
